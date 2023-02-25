@@ -13,15 +13,15 @@
   </a>
   <!-- Attaching the Website Page -->
   <a href ="#">
-    <img src = "https://img.shields.io/badge/Website-blue?flat-square&logo=google-chrome&logoColor=white" alt = "E-mail icon">
+    <img src = "https://img.shields.io/badge/Website-blue?flat-square&logo=google-chrome&logoColor=white" alt = "Website Icon">
   </a>
   <!-- Attaching the EMAIL LINK -->
   <a href ="mainto:ayushkrsingh1184@gmail.com">
-    <img src = "https://img.shields.io/badge/Email-blue?flat-square&logo=gmail&logoColor=white" alt = "E-mail icon">
+    <img src = "https://img.shields.io/badge/Email-blue?flat-square&logo=gmail&logoColor=white" alt = "E-mail Icon">
   </a>
   <!-- Attaching the DevPost LINK -->
-  <a href ="mainto:ayushkrsingh1184@gmail.com">
-    <img src = "https://img.shields.io/badge/Devpost-blue?flat-square&logo=devpost&logoColor=white" alt = "E-mail icon">
+  <a href ="#">
+    <img src = "https://img.shields.io/badge/Devpost-blue?flat-square&logo=devpost&logoColor=white" alt = "Devpost Icon">
   </a>
 </p>
 
@@ -30,3 +30,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=481&height=40&lines=Hey+There+I'm+Ayush+Singh" alt="Typing SVG" /></a>  
 <img width="30px" src= "https://user-images.githubusercontent.com/112762898/221348067-c4209eba-2e62-4d46-a4ba-0d680d8c29c3.gif" alt="cool-guy emoji">
 </h1>
+
+<h3>
+  About Me
+</h3>
+<p>I am an 18 year old aspiring software engineer. <a href="https://uh.edu/">UH</a>' 27</p>
+  <ul>
+    <li>My name is Ayush Singh and I'm an incoming Computer Science major at the University of Houston.</li>
+    <li>Pronouns: He/Him</li>
+    <li>I'm currently learning about full stack web development</li>
+  </ul>
