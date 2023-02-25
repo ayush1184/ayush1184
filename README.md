@@ -32,8 +32,7 @@
 </h1>
 
 <h3>
-  <img height = "25px" src="https://em-content.zobj.net/thumbs/240/apple/325/man-technologist_1f468-200d-1f4bb.png"> 
-  &nbsp; &nbsp; About Me
+  👨‍💻 &nbsp;About Me
 </h3>
 <p>I am an 18 year old aspiring software engineer. <a href="https://uh.edu/">UH</a>' 27</p>
   <ul>
