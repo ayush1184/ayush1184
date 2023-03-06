@@ -27,7 +27,11 @@
 
 <h1 align = "center"> 
 <img width="30px" src ="https://user-images.githubusercontent.com/112762898/221347985-744dd6fc-abe4-4261-948a-83b49644e197.gif">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=481&height=40&lines=Hey+There+I'm+Ayush+Singh" alt="Typing SVG" /></a>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=172&lines=Hey+There%2C+" alt="Typing SVG" />
+<img width="30px" src= "https://user-images.githubusercontent.com/112762898/221348067-c4209eba-2e62-4d46-a4ba-0d680d8c29c3.gif" alt="cool-guy emoji">
+  <br>
+<img width="30px" src ="https://user-images.githubusercontent.com/112762898/221347985-744dd6fc-abe4-4261-948a-83b49644e197.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=290&lines=I'm+Ayush+Singh.;I'm+a+student.;I'm+a+learner.;I'm+a+developer." alt="Typing SVG" />
 <img width="30px" src= "https://user-images.githubusercontent.com/112762898/221348067-c4209eba-2e62-4d46-a4ba-0d680d8c29c3.gif" alt="cool-guy emoji">
 </h1>
 
