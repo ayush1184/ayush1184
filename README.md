@@ -16,7 +16,7 @@
     <img src = "https://img.shields.io/badge/Website-blue?flat-square&logo=google-chrome&logoColor=white" alt = "Website Icon">
   </a>
   <!-- Attaching the EMAIL LINK -->
-  <a href ="mainto:ayushkrsingh1184@gmail.com">
+  <a href ="mailto:ayushkrsingh1184@gmail.com">
     <img src = "https://img.shields.io/badge/Email-blue?flat-square&logo=gmail&logoColor=white" alt = "E-mail Icon">
   </a>
   <!-- Attaching the DevPost LINK -->
@@ -24,6 +24,9 @@
     <img src = "https://img.shields.io/badge/Devpost-blue?flat-square&logo=devpost&logoColor=white" alt = "Devpost Icon">
   </a>
 </p>
+<div id="profileviews" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush1184&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1 align = "center"> 
 <img width="30px" src ="https://user-images.githubusercontent.com/112762898/221347985-744dd6fc-abe4-4261-948a-83b49644e197.gif">
@@ -38,10 +41,16 @@
 <h3>
   👨‍💻 &nbsp;About Me
 </h3>
-<p>I am an 18 year old aspiring software engineer. <a href="https://uh.edu/">UH</a>' 27</p>
+<p>I am an 18-year-old aspiring software engineer. <a href="https://uh.edu/">UH</a>' 27</p>
   <ul>
     <li>My name is Ayush Singh and I'm an incoming Computer Science major at the University of Houston.</li>
     <li>Pronouns: He/Him</li>
     <li>I'm currently learning about full stack web development</li>
   </ul>
+
+<br /><br />
+
+  <div id="stats" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1184&layout=compact&theme=vision-friendly-dark" alt=""/>
+  </div>
   
