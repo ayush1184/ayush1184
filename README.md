@@ -4,19 +4,19 @@
 
 <p align="center">
   <!-- Attaching the LinkedIn Page -->
-  <a href = "https://www.linkedin.com/in/aks1184/">
+  <a href = "https://www.linkedin.com/in/aks1184/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Icon"> 
   </a>  
   <!-- Attaching the Discord Page -->
-  <a href ="https://twitter.com/ayushsingh1184">
+  <a href ="https://twitter.com/ayushsingh1184"  target="_blank">
     <img src= "https://img.shields.io/badge/Twitter-blue?flat-square&logo=twitter&logoColor=white" alt="Twitter Icon">
   </a>
   <!-- Attaching the Website Page -->
-  <a href ="https://ayush1184.vercel.app/">
+  <a href ="https://ayush1184.vercel.app/"  target="_blank">
     <img src = "https://img.shields.io/badge/Website-blue?flat-square&logo=google-chrome&logoColor=white" alt = "Website Icon">
   </a>
   <!-- Attaching the EMAIL LINK -->
-  <a href ="mailto:ayushkrsingh1184@gmail.com">
+  <a href ="mailto:ayushkrsingh1184@gmail.com"  target="_blank">
     <img src = "https://img.shields.io/badge/Email-blue?flat-square&logo=gmail&logoColor=white" alt = "E-mail Icon">
   </a>
   <!-- Attaching the DevPost LINK -->
