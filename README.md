@@ -12,7 +12,7 @@
     <img src= "https://img.shields.io/badge/Twitter-blue?flat-square&logo=twitter&logoColor=white" alt="Twitter Icon">
   </a>
   <!-- Attaching the Website Page -->
-  <a href ="#">
+  <a href ="https://ayush1184.vercel.app/">
     <img src = "https://img.shields.io/badge/Website-blue?flat-square&logo=google-chrome&logoColor=white" alt = "Website Icon">
   </a>
   <!-- Attaching the EMAIL LINK -->
