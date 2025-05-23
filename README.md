@@ -41,7 +41,7 @@
 <h3>
   👨‍💻 &nbsp;About Me
 </h3>
-<p>I am an 19-year-old aspiring software engineer. <a href="https://uh.edu/">UH</a>' 27</p>
+<p>I am an 20-year-old aspiring software engineer. <a href="https://uh.edu/">UH</a>' 27</p>
   <ul>
     <li>My name is Ayush Singh and I'm an incoming Computer Science major at the University of Houston.</li>
     <li>Pronouns: He/Him</li>
