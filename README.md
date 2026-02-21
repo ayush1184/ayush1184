@@ -12,7 +12,7 @@
     <img src= "https://img.shields.io/badge/Twitter-blue?flat-square&logo=twitter&logoColor=white" alt="Twitter Icon">
   </a>
   <!-- Attaching the Website Page -->
-  <a href ="https://ayush1184.vercel.app/"  target="_blank">
+  <a href ="https://ayushkrsingh.work"  target="_blank">
     <img src = "https://img.shields.io/badge/Website-blue?flat-square&logo=google-chrome&logoColor=white" alt = "Website Icon">
   </a>
   <!-- Attaching the EMAIL LINK -->
@@ -54,3 +54,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1184&layout=compact&theme=vision-friendly-dark" alt=""/>
   </div>
   
+
